@@ -1,4 +1,4 @@
-# hootlens-com
+# Hoot Lens
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,141 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hootlens-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://hootlens.com/
+Hoot Lens provides session replay, heatmaps, and click analysis to help website owners understand where visitors get stuck. Their platform flags problematic clicks and offers detailed replay of user sessions, enabling teams to identify and fix usability issues. As a Parallel Platforms product, Hoot Lens aims to improve conversion rates and user experience through visual insights and actionable data.
+
+**Areas:** Analytics · Session Replay · Heatmaps · User Experience · SaaS · Parallel Platforms
+
+## Hoot Lens on APIs.io
+
+Everything profiled for Hoot Lens is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hootlens-com/](https://apis.io/providers/hootlens-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (17)
+
+- [Hoot Lens Account API](https://apis.io/apis/hootlens-com/hootlens-com-account-api/) — The Account API from Hoot Lens — 1 operation(s) for account.
+- [Hoot Lens Analysis API](https://apis.io/apis/hootlens-com/hootlens-com-analysis-api/) — The Analysis API from Hoot Lens — 5 operation(s) for analysis.
+- [Hoot Lens Changes API](https://apis.io/apis/hootlens-com/hootlens-com-changes-api/) — The Changes API from Hoot Lens — 3 operation(s) for changes.
+- [Hoot Lens Conversions API](https://apis.io/apis/hootlens-com/hootlens-com-conversions-api/) — The Conversions API from Hoot Lens — 2 operation(s) for conversions.
+- [Hoot Lens Element names API](https://apis.io/apis/hootlens-com/hootlens-com-element-names-api/) — The Element names API from Hoot Lens — 1 operation(s) for element names.
+- [Hoot Lens Errors API](https://apis.io/apis/hootlens-com/hootlens-com-errors-api/) — The Errors API from Hoot Lens — 3 operation(s) for errors.
+- [Hoot Lens Funnels API](https://apis.io/apis/hootlens-com/hootlens-com-funnels-api/) — The Funnels API from Hoot Lens — 3 operation(s) for funnels.
+- [Hoot Lens Goals API](https://apis.io/apis/hootlens-com/hootlens-com-goals-api/) — The Goals API from Hoot Lens — 3 operation(s) for goals.
+- [Hoot Lens Heatmaps API](https://apis.io/apis/hootlens-com/hootlens-com-heatmaps-api/) — The Heatmaps API from Hoot Lens — 3 operation(s) for heatmaps.
+- [Hoot Lens Improvements API](https://apis.io/apis/hootlens-com/hootlens-com-improvements-api/) — The Improvements API from Hoot Lens — 3 operation(s) for improvements.
+- [Hoot Lens Install API](https://apis.io/apis/hootlens-com/hootlens-com-install-api/) — The Install API from Hoot Lens — 2 operation(s) for install.
+- [Hoot Lens Recordings API](https://apis.io/apis/hootlens-com/hootlens-com-recordings-api/) — The Recordings API from Hoot Lens — 3 operation(s) for recordings.
+- [Hoot Lens Service API](https://apis.io/apis/hootlens-com/hootlens-com-service-api/) — The Service API from Hoot Lens — 1 operation(s) for service.
+- [Hoot Lens Settings changes API](https://apis.io/apis/hootlens-com/hootlens-com-settings-changes-api/) — The Settings changes API from Hoot Lens — 4 operation(s) for settings changes.
+- [Hoot Lens Sites API](https://apis.io/apis/hootlens-com/hootlens-com-sites-api/) — The Sites API from Hoot Lens — 2 operation(s) for sites.
+- [Hoot Lens Visits API](https://apis.io/apis/hootlens-com/hootlens-com-visits-api/) — The Visits API from Hoot Lens — 3 operation(s) for visits.
+- [Hoot Lens Webhooks API](https://apis.io/apis/hootlens-com/hootlens-com-webhooks-api/) — The Webhooks API from Hoot Lens — 5 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Hoot Lens Agentic Access](https://apis.io/agentic-access/hootlens-com/hootlens-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [FindingWork](https://apis.io/schemas/hootlens-com/hootlens-com-finding-work/)
+- [OverviewTrends](https://apis.io/schemas/hootlens-com/hootlens-com-overview-trends/)
+- [ProjectUpdate](https://apis.io/schemas/hootlens-com/hootlens-com-project-update/)
+- [SettingsPreview](https://apis.io/schemas/hootlens-com/hootlens-com-settings-preview/)
+- [TrafficSummary](https://apis.io/schemas/hootlens-com/hootlens-com-traffic-summary/)
+- [WeeklyDigest](https://apis.io/schemas/hootlens-com/hootlens-com-weekly-digest/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Hootlens Com Context](https://apis.io/jsonld/hootlens-com/hootlens-com-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Hoot Lens Openapi Overlay](https://apis.io/overlays/hootlens-com/hootlens-com-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Hoot Lens API Rules](https://apis.io/rules/hootlens-com/hootlens-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hoot Lens Authentication](https://apis.io/security/hootlens-com/hootlens-com-authentication/)
+- [Hoot Lens Domain Security](https://apis.io/security/hootlens-com/hootlens-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hootlens.com/)
+- [Documentation](https://hootlens.com/guides)
+- [Terms of service](https://hootlens.com/terms)
+- [Privacy policy](https://hootlens.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 46.3** — developing · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 63.1 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 21.1 |
+
+**Agent readiness 50.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hootlens-com/](https://apis.io/providers/hootlens-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hoot Lens: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hootlens-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
